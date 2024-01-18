@@ -1,0 +1,22 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#F5F5F5"/>
+<g id="Desktop - Web Design">
+<rect width="1440" height="2796" transform="translate(-165 -2547)" fill="white"/>
+<g id="Group 35">
+<rect id="Rectangle" x="-165" y="-144" width="1440" height="393" fill="#1D1C1E"/>
+<g id="Group 34">
+<g id="Group 14">
+<g id="Group 13">
+<circle id="Oval" cx="12" cy="12" r="12" transform="matrix(0 -1 -1 0 24 24)" fill="url(#paint0_angular_0_1)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_angular_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12 12) scale(12)">
+<stop stop-color="#E7816B" stop-opacity="0.01"/>
+<stop offset="0.999287" stop-color="#E7816B"/>
+</radialGradient>
+</defs>
+</svg>
